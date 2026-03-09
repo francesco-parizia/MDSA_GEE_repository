@@ -2,7 +2,7 @@
 
 This code calculates iSCA and SP in order to obtain MDSE and nT
 - 
-This workflow is part of https://doi.org/10.5194/egusphere-2025-3028
+
 
 
 -   [Earth Engine Homepage](https://earthengine.google.com/)
